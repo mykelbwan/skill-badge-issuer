@@ -52,4 +52,11 @@ contract SkillBadgeIssuer is ERC1155, AccessControl {
     ) public view override(ERC1155, AccessControl) returns (bool) {
         return super.supportsInterface(interfaceId);
     }
+
+    // Add this function to your SkillBadgeIssuer.sol contract
+
+    function setURI(string memory newUri) public onlyRole(DEFAULT_ADMIN_ROLE) {
+        // _setURI is the internal function from OpenZeppelin's ERC1155
+        _setURI(newUri);
+    }
 }

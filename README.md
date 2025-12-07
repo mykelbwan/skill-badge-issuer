@@ -1,0 +1,1 @@
+final uri = ipfs://bafybeigd4mw4vxcrwt5swa3y325u3jh73y34hci2uc5n3i6ad6jfv4wp4e/{id}.json

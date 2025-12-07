@@ -1,0 +1,20 @@
+{
+    "name": "Solidity Expert",
+    "description": "Awarded to individuals demonstrating deep expertise in smart contract development and security best practices.",
+    "image": "ipfs://bafybeierohsg6iccbnuywle6m3osvnaxsc6nrqo6jb4vuu7ooqb2xkguqa/testImg.jpg",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Skill Category",
+            "value": "Development"
+        },
+        {
+            "trait_type": "Issuer",
+            "value": "AuraLink"
+        },
+        {
+            "trait_type": "Permanent",
+            "value": true
+        }
+    ]
+}
